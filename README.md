@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Researcher in [Lambda lab (Laboratory of Methods for Big Data Analysis)](https://cs.hse.ru/en/lambda/)
-I'm currently Diving into category theory
+- I'm Researcher in [Lambda lab (Laboratory of Methods for Big Data Analysis)](https://cs.hse.ru/en/lambda/)
+- I'm currently Diving into category theory
 
 <!--
 **abdalazizrashid/abdalazizrashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
