@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm Researcher in [Lambda lab (Laboratory of Methods for Big Data Analysis)](https://cs.hse.ru/en/lambda/)
+- I'm a Researcher in [Lambda lab (Laboratory of Methods for Big Data Analysis)](https://cs.hse.ru/en/lambda/)
 - I'm currently Diving into category theory
 
 <!--
