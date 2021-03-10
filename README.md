@@ -1,6 +1,11 @@
 ### Hi there 👋
-- I'm a researcher in [Lambda lab (Laboratory of Methods for Big Data Analysis)](https://cs.hse.ru/en/lambda/)
-- I'm currently diving into category theory
+- I'm a researcher in [Lambda lab (Laboratory of Methods for Big Data Analysis)](https://cs.hse.ru/en/lambda/).
+- I'm currently diving into category theory.
+- I'm interested in:
+  * Improve the interpretability of deep neural networks.
+  * Improve and extend molecular dynamics simulation.
+  * Researching Parsimony promoting and sparse models.
+  * And much more!
 
 <!--
 **abdalazizrashid/abdalazizrashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
